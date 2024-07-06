@@ -1,4 +1,4 @@
-alert("hello");
+
 var gamePattern = [];
 var userClickedPattern= [];
 function nextSequence()
